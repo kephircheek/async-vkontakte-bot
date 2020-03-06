@@ -1,0 +1,23 @@
+[
+  {
+    "type": "message_new",
+    "object": {
+      "date": 1582910057,
+      "from_id": 157082129,
+      "id": 69,
+      "out": 0,
+      "peer_id": 157082129,
+      "text": "New message text",
+      "conversation_message_id": 65,
+      "fwd_messages": [],
+      "important": false,
+      "random_id": 0,
+      "attachments": [],
+      "payload": "{\"command\": \"info\"}",
+      "is_hidden": false
+    },
+    "group_id": 131682822,
+    "event_id": "08142bf100f162d3f82c37230d5105ea63eeb016",
+    "secret": "D6GdUJVbrPmc88"
+  }
+]
